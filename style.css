@@ -1,0 +1,49 @@
+
+.app{
+    position: relative;
+    margin: 5rem 30rem;
+    background-color: aquamarine;
+
+}
+#questionid{
+    background-color: azure;
+    border-radius: 10PX;
+    padding: 4px 5px;
+}
+.answer{
+   
+    background-color: blanchedalmond;
+    
+}
+.aopt{
+    width: 300px;
+    background-color: rgb(236, 205, 118);
+    padding: 10px;
+}
+.aopt:hover{
+    background-color: antiquewhite;
+}
+#btn{
+    margin: 20px 50px;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 13px;
+    border: none;
+}
+#btn:hover{
+    background-color: rgb(19, 235, 37);
+    color: rgb(223, 226, 225);
+}
+.resultBox{
+    position: absolute;
+    top: 0;
+    right: 50%;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(153, 217, 153);
+
+}
+.none{
+    display: none;
+}
+
